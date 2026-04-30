@@ -1,0 +1,11 @@
+cluster_id,cluster_name,subjects,best_fit_degrees
+C1,Life Sciences,"Biology; Anatomy; Physiology; Biochemistry; Microbiology; Genetics","MPH; MSHI"
+C2,Physical Sciences,"Physics; Chemistry; Environmental Chemistry; Earth Science","MPH"
+C3,Quant & Analytical,"Statistics; Biostatistics; Calculus; Data Science; Econometrics","MPH; MSHI; MBA-HC"
+C4,Social & Behavioral,"Psychology; Sociology; Social Work; Community Studies; Anthropology","MPH; MHA"
+C5,Business & Management,"Accounting; Finance; Economics; Marketing; Management; HR; Entrepreneurship","MBA-HC; MHA"
+C6,Health & Clinical,"Public Health; Epidemiology; Clinical Medicine; Health Policy; Pharmacology; Global Health","MHA; MPH; MSHI"
+C7,Information Technology,"Computer Science; Python; SQL; Database Mgmt; Cybersecurity; Cloud; Software Engineering","MSHI; MBA-HC"
+C8,"Policy, Law & Ethics","Political Science; Healthcare Law; Public Policy; Regulatory Affairs; Bioethics","MPH; MHA"
+C9,Comm & Humanities,"English; Writing; Journalism; Public Speaking; Philosophy; History","MHA; MPH"
+C10,Engineering & Systems,"Industrial Engineering; Biomedical Engineering; Quality Mgmt; Lean/Six Sigma","MSHI; MHA"

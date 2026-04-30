@@ -1,0 +1,12 @@
+track_id,career_track,degree_fit,keywords
+T01,"Healthcare Administration, Operations, Quality & Risk","MHA primary; MPH; MBA-HC","Leadership evidence; ops/management interest; hospital or health system goal; quality improvement language"
+T02,"Healthcare Consulting & Advisory","Career subtrack-specific","Project-based advisory interest; client-facing problem solving; strategy or transformation language; implementation focus"
+T03,"Healthcare Finance, Payer Strategy & Value-Based Care","MBA-HC primary; MHA; MSHI","Finance/accounting background; payer or revenue cycle interest; VBC/ACO keywords; quantitative strength"
+T04,"Behavioral Health & Human Services Management","MPH primary; MHA","Mental health or SUD interest; community behavioral health language; psychology or social work background"
+T05,"Public, Community & Global Health Programs","MPH primary; MHA; MBA-HC","Community health interest; health equity language; disease prevention; outreach/education; global health focus"
+T06,"Population Health Analytics, Epidemiology & Outcomes Research","MPH primary; MSHI; MBA-HC","Epidemiology or biostatistics interest; data analysis keywords; research methodology; outcomes/evaluation focus"
+T07,"Health Policy, Economics & Advocacy","MPH primary; MBA-HC; MHA","Policy or legislative interest; advocacy language; government or regulatory career goal; health economics"
+T08,"Environmental, Occupational & Climate Health","MPH primary; MHA","Environmental health interest; occupational safety; toxicology/exposure keywords; food safety or climate-health focus"
+T09,"Digital Health, Informatics & Data Governance","MSHI primary; MHA; MBA-HC","Health IT or EHR interest; technical skills such as SQL/Python; interoperability keywords; clinical informatics; data governance"
+T10,"Life Sciences, Clinical Research & Regulatory Management","MBA-HC primary; MPH; MSHI","Pharma/biotech/medtech interest; clinical trials or regulatory affairs keywords; FDA/IRB language; life sciences + business combination"
+T11,"Healthcare Entrepreneurship, Product & Innovation","MBA-HC primary; MSHI; MHA","Startup or innovation language; digital health product interest; venture/GTM keywords; building or scaling new care models"
