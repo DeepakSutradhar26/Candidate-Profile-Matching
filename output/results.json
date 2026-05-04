@@ -1,0 +1,286 @@
+{
+  "candidates": [
+    {
+      "id": "Sample_FreshGrad_01",
+      "top_3_career_tracks": [
+        {
+          "rank": 1,
+          "track_id": "T01",
+          "career_track": "Healthcare Administration, Operations, Quality & Risk",
+          "score": 1.4,
+          "matched_keywords": [
+            "quality improvement",
+            "leadership"
+          ]
+        },
+        {
+          "rank": 2,
+          "track_id": "T05",
+          "career_track": "Public, Community & Global Health Programs",
+          "score": 1.2,
+          "matched_keywords": [
+            "health",
+            "large healthcare"
+          ]
+        },
+        {
+          "rank": 3,
+          "track_id": "T04",
+          "career_track": "Behavioral Health & Human Services Management",
+          "score": 0.6,
+          "matched_keywords": [
+            "health"
+          ]
+        }
+      ],
+      "recommended_degree": {
+        "degree": "MHA",
+        "degree_scores": {
+          "MHA": 2.5,
+          "MPH": 2.5,
+          "MSHI": 1.0,
+          "MBA-HC": 0
+        },
+        "academic_clusters": [
+          "C1",
+          "C6"
+        ]
+      }
+    },
+    {
+      "id": "Sample_MPH_Community_01",
+      "top_3_career_tracks": [
+        {
+          "rank": 1,
+          "track_id": "T05",
+          "career_track": "Public, Community & Global Health Programs",
+          "score": 2.2,
+          "matched_keywords": [
+            "community health",
+            "health",
+            "outreach",
+            "health equity"
+          ]
+        },
+        {
+          "rank": 2,
+          "track_id": "T04",
+          "career_track": "Behavioral Health & Human Services Management",
+          "score": 0.8,
+          "matched_keywords": [
+            "health"
+          ]
+        },
+        {
+          "rank": 3,
+          "track_id": "T07",
+          "career_track": "Health Policy, Economics & Advocacy",
+          "score": 0.6,
+          "matched_keywords": [
+            "state health"
+          ]
+        }
+      ],
+      "recommended_degree": {
+        "degree": "MPH",
+        "degree_scores": {
+          "MHA": 0.5,
+          "MPH": 4.0,
+          "MSHI": 0,
+          "MBA-HC": 0
+        },
+        "academic_clusters": [
+          "C4"
+        ]
+      }
+    },
+    {
+      "id": "Sample_MBA_Finance_01",
+      "top_3_career_tracks": [
+        {
+          "rank": 1,
+          "track_id": "T03",
+          "career_track": "Healthcare Finance, Payer Strategy & Value-Based Care",
+          "score": 1.2,
+          "matched_keywords": [
+            "revenue cycle",
+            "payer"
+          ]
+        },
+        {
+          "rank": 2,
+          "track_id": "T02",
+          "career_track": "Healthcare Consulting & Advisory",
+          "score": 1.0,
+          "matched_keywords": [
+            "revenue cycle",
+            "audit",
+            "honesty"
+          ]
+        },
+        {
+          "rank": 3,
+          "track_id": "T04",
+          "career_track": "Behavioral Health & Human Services Management",
+          "score": 0.8,
+          "matched_keywords": [
+            "health"
+          ]
+        }
+      ],
+      "recommended_degree": {
+        "degree": "MBA-HC",
+        "degree_scores": {
+          "MHA": 0.5,
+          "MPH": 0.75,
+          "MSHI": 0,
+          "MBA-HC": 3.25
+        },
+        "academic_clusters": [
+          "C5"
+        ]
+      }
+    },
+    {
+      "id": "Sample_MSHI_Tech_01",
+      "top_3_career_tracks": [
+        {
+          "rank": 1,
+          "track_id": "T09",
+          "career_track": "Digital Health, Informatics & Data Governance",
+          "score": 1.2,
+          "matched_keywords": [
+            "ehr",
+            "interoperability"
+          ]
+        },
+        {
+          "rank": 2,
+          "track_id": "T11",
+          "career_track": "Healthcare Entrepreneurship, Product & Innovation",
+          "score": 1.0,
+          "matched_keywords": [
+            "technology",
+            "health-tech",
+            "startup"
+          ]
+        },
+        {
+          "rank": 3,
+          "track_id": "T02",
+          "career_track": "Healthcare Consulting & Advisory",
+          "score": 0.8,
+          "matched_keywords": [
+            "fhir",
+            "software developer"
+          ]
+        }
+      ],
+      "recommended_degree": {
+        "degree": "MSHI",
+        "degree_scores": {
+          "MHA": 0,
+          "MPH": 0,
+          "MSHI": 3.25,
+          "MBA-HC": 1.25
+        },
+        "academic_clusters": [
+          "C7"
+        ]
+      }
+    },
+    {
+      "id": "Sample_MHA_LTC_01",
+      "top_3_career_tracks": [
+        {
+          "rank": 1,
+          "track_id": "T01",
+          "career_track": "Healthcare Administration, Operations, Quality & Risk",
+          "score": 0.8,
+          "matched_keywords": [
+            "quality improvement",
+            "leadership"
+          ]
+        },
+        {
+          "rank": 2,
+          "track_id": "T04",
+          "career_track": "Behavioral Health & Human Services Management",
+          "score": 0.6,
+          "matched_keywords": [
+            "care program"
+          ]
+        },
+        {
+          "rank": 3,
+          "track_id": "T05",
+          "career_track": "Public, Community & Global Health Programs",
+          "score": 0.6,
+          "matched_keywords": [
+            "care facilities"
+          ]
+        }
+      ],
+      "recommended_degree": {
+        "degree": "MHA",
+        "degree_scores": {
+          "MHA": 2.5,
+          "MPH": 2.5,
+          "MSHI": 1.0,
+          "MBA-HC": 0
+        },
+        "academic_clusters": [
+          "C1",
+          "C6"
+        ]
+      }
+    },
+    {
+      "id": "Sample_MPH_Policy_01",
+      "top_3_career_tracks": [
+        {
+          "rank": 1,
+          "track_id": "T07",
+          "career_track": "Health Policy, Economics & Advocacy",
+          "score": 2.0,
+          "matched_keywords": [
+            "policy",
+            "government",
+            "advocacy"
+          ]
+        },
+        {
+          "rank": 2,
+          "track_id": "T05",
+          "career_track": "Public, Community & Global Health Programs",
+          "score": 1.4,
+          "matched_keywords": [
+            "government health",
+            "health"
+          ]
+        },
+        {
+          "rank": 3,
+          "track_id": "T04",
+          "career_track": "Behavioral Health & Human Services Management",
+          "score": 0.8,
+          "matched_keywords": [
+            "health"
+          ]
+        }
+      ],
+      "recommended_degree": {
+        "degree": "MPH",
+        "degree_scores": {
+          "MHA": 0.5,
+          "MPH": 4.0,
+          "MSHI": 0,
+          "MBA-HC": 0
+        },
+        "academic_clusters": [
+          "C8"
+        ]
+      }
+    }
+  ]
+}

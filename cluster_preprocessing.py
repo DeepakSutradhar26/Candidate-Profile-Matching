@@ -4,8 +4,8 @@ import pandas as pd
 df = pd.read_csv("./data/subject_cluster.csv")
 
 # Preprocessing
-df["subjects"] = df["subjects"].apply(lambda x : [i.strip().lower() for i in x.split(';')])
-df["best_fit_degrees"] = df["best_fit_degrees"].apply(lambda x : [i.strip() for i in x.split(';')])
+df["subjects"] = df["subjects"].apply(lambda x: [i.strip().lower() for i in x.split(";")])
+df["best_fit_degrees"] = df["best_fit_degrees"].apply(lambda x: [i.strip() for i in x.split(";")])
 
 # Mapping subject to cluster_id
 subjectToCluster = dict()
